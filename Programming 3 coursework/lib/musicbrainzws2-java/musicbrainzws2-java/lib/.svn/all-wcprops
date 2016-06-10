@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/18/musicbrainzws2-java/lib
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/musicbrainzws2-java/lib/commons-codec-1.4.jar
+END
+httpmime-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/18/musicbrainzws2-java/lib/httpmime-4.1.1.jar
+END
+httpcore-4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/18/musicbrainzws2-java/lib/httpcore-4.1.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/18/musicbrainzws2-java/lib/jdom.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/18/musicbrainzws2-java/lib/commons-logging-1.1.1.jar
+END
+commons-lang3-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/musicbrainzws2-java/lib/commons-lang3-3.1.jar
+END
+httpclient-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/18/musicbrainzws2-java/lib/httpclient-4.1.1.jar
+END
+httpclient-cache-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/18/musicbrainzws2-java/lib/httpclient-cache-4.1.1.jar
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/18/musicbrainzws2-java/lib/README.TXT
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/18/musicbrainzws2-java/lib/log4j-1.2.14.jar
+END

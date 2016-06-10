@@ -1,0 +1,7 @@
+Nov 25, 2010
+- windows support added
+- now includes libdiscid.dll, thanks Lukáš
+- simple webservice lookup classes.  Works well together with disc lookup.
+
+Nov 16, 2010
+- project created
